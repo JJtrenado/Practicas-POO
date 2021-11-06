@@ -1,8 +1,5 @@
 #include "ruleta.h"
-#include "jugador.h"    //Incluimos jugador.h para poder declarar objetos de la clase Jugador
-#include "crupier.h"    //Incluimos crupier.h para poder declarar objetos de la clase Crupier
-#include "persona.h"
-
+#include <stdlib.h>
 using namespace std;
 
 int main(){

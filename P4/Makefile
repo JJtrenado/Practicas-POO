@@ -15,7 +15,7 @@
 # Points to the root of Google Test, relative to where this file is.
 # Remember to tweak this if you move this file.
 #GTEST_DIR = /home/jaromero/juan/programacion/c++/googletest/gtest-1.7.0
-GTEST_DIR = /home/juanjo/Escritorio/poo/googletest
+GTEST_DIR = /home/jaromero/juan/asignaturas/poo/practicas/2019/googletest-1.10.x/googletest
 # Where to find user code.
 # USER_DIR = ../samples
 
