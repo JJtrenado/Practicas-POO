@@ -10,4 +10,6 @@ int main(){
     cout<<"6 Añadir un jugador a la mesa"
     cout<<"7 Salir del programa"
 
+
+//prueba
 }
