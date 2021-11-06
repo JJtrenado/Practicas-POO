@@ -1,5 +1,5 @@
-#ifndef CRUPIER_H
-#define CRUPIER_H
+#ifndef __crupier__
+#define __crupier__
 
 #include "persona.h"
 using namespace std;

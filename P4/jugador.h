@@ -1,5 +1,5 @@
-#ifndef JUGADOR_H
-#define JUGADOR_H
+#ifndef __jugador__
+#define __jugador__
 #include "persona.h"        //Incluimos el archivo persona.h para poder realizar la herencia
 #include <list>
 #include <fstream>

@@ -1,5 +1,5 @@
-#ifndef PERSONA_H
-#define PERSONA_H
+#ifndef __persona__
+#define __persona__
 
 #include <string> //fichero de cabecera para cadenas en C++
 using namespace std;

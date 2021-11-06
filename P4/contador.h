@@ -12,7 +12,7 @@ class Contador {
         int max_;                       //Valor maximo del entero valor_
         std::list<Contador> lista_;     //Lista del historial de contadores habidos
 
-        void controlValor();            //Funcion que controlara los valores que toma el contador
+        void controlValor();            //Funcion que controlaraa los valores que toma el contador
 
     public:
         Contador(int valor = 0, int min = 0, int max = 1000);           //Constructor de la clase Contador
