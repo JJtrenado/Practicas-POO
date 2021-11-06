@@ -13,6 +13,8 @@ class Ruleta{
     private:
         int banca_;                     //dinero en euros que tiene la banca
         int bola_;                      //número entre 0 y 36 que sale en la ruleta en cada jugada
+        int nlanzamientos_;                 //Numero de veces que se ha lanzado la bola
+        int gananciaBanca_;                 //Dinero que gana o pierde la banca
         list<Jugador> jugadores_;       //lista de jugadores
         Crupier crupier_;               //crupier
 
